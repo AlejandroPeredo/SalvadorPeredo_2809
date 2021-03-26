@@ -1,5 +1,6 @@
-La organización  de  los centro de cómputo es la aplicación de un conjunto de técnicas conducentes para obtener una empresa estructurada en forma tal, 
-que con la correspondiente división de actividades y la debida coordinación de éstas, se obtenga la máxima rentabilidad. La organización es la fase de
-la labor del mánager que tiende a adecuar los recursos previstos en la planificación para conseguir los objetivos. La organización tiende a estructurar
-la empresa creando órganos con funciones distintas, pero coordinados todos ellos entre sí para obtener el último fin de la empresa, que es el beneficio 
-y el progreso.
+Concepto Organización
+La organización  de  los centro de cómputo es la aplicación de un conjunto de técnicas conducentes para obtener una empresa
+estructurada en forma tal, que con la correspondiente división de actividades y la debida coordinación de éstas, se obtenga
+la máxima rentabilidad. La organización es la fase de la labor del mánager que tiende a adecuar los recursos previstos en
+la planificación para conseguir los objetivos. La organización tiende a estructurar la empresa creando órganos con funciones 
+distintas, pero coordinados todos ellos entre sí para obtener el último fin de la empresa, que es el beneficio y el progreso.
