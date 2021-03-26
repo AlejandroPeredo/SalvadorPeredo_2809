@@ -4,3 +4,15 @@ estructurada en forma tal, que con la correspondiente división de actividades y
 la máxima rentabilidad. La organización es la fase de la labor del mánager que tiende a adecuar los recursos previstos en
 la planificación para conseguir los objetivos. La organización tiende a estructurar la empresa creando órganos con funciones 
 distintas, pero coordinados todos ellos entre sí para obtener el último fin de la empresa, que es el beneficio y el progreso.
+
+Ejemplo:
+Retomando un poco de lo visto en clase para poder llevar acabo una correcta organización de un centro de computo se requiere tener
+resueltos varios aspectos como los cuales son:
+El espacio, se debe elegir un area que nos permita tener el equipo de computo y espacio para su mantenimiento y operación
+La temperatura, debemos analizar cual es la temperatura maxima que se puede tener el centro de computo con todos los equipos 
+en operación y de esta forma podemos pensar en hacer uso de un aire acondicionado para que de esta forma los equipos trabajen
+correctamente.
+Red, debemos tener en cuenta que muchas veces una red sencilla como la que provee nuestro isp no es suficiente por lo tanto 
+se debe analizar la topologia de red necesaria para nuestro centro.
+Energía, debemos diseñar de tal forma que cada equipo tenga la alimentación de energia adecuada pero también debemos tomar en cuenta
+la protección de los mismos por si llegase a pasar una sobre carga de la red electrica.
