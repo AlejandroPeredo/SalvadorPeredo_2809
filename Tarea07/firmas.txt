@@ -1,0 +1,17 @@
+hola.c sha1
+de992f573850a7f869682992eb47a676a8b8c070  original
+
+hola.c2 sha1
+e55b5be0add0415dcb84ab37aa7a2f4124376668  modificado
+
+hola.c3 sha1
+de992f573850a7f869682992eb47a676a8b8c070  original
+
+hola.c4 sha256
+a2d1def3c717961055d08da6ab95d98e3e4d92ebde7dceb53c3b691d314a45f3 original
+
+hola.c5 sha256
+f96b053fb84d3c2eef203e0206fdaa7482237730ae6cc9acaef9e5af57b02b78  modificado
+
+hola.c6 sha256
+a2d1def3c717961055d08da6ab95d98e3e4d92ebde7dceb53c3b691d314a45f3  original
