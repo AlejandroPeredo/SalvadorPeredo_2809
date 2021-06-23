@@ -1,0 +1,15 @@
+1-. Revisar los resultados de los procesos e incorporar acciones correctivas conforme a instrucciones de su superior inmediato.
+	Monitorear el centro de computo y si en caso de encontrar algún fallo tomar las acciones necesarias para corregir el fallo.
+
+2-. Realizar labores de mantenimiento y limpieza de los equipos del centro de cómputo.
+	Calendarizar el mantenimiento y limpieza de los equipos en horarios donde los equipos no esten en uso para asi no afectar a los usuarios finales
+
+3-. Mantener informado al jefe inmediato sobre el funcionamiento del centro de cómputo.
+	Llevar una bitacora de las acciones efectuadas o bien de las fallas, en esta bitacora se pueden incluir mantenimiento, errores, fallas, etc. Se puede trabajar con los logs
+
+4-. Aplicar en forma estricta las normas de seguridad y control establecidas.
+	Cada usuario que tenga acceso al centro de computo debera tener usuario y contraseña, y sus niveles de seguridad correspondientes
+
+5-. Realizar las copias de respaldo (back-up) de la información y procesos de cómputo que se realizan en la Dirección, conforme a parámetros preestablecidos.
+	Programar los backups del sistema en horarios preestablecidos para no afectar el funcionamiento del sistema. Se pueden manejar los back-ups en la nube para
+  que de esta forma los backups no se encuentren en el mismo centro.
